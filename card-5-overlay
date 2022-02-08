@@ -1,0 +1,20 @@
+<div class="card">
+  <div class="overlay">
+    <img class="card-img-bordered" src="https://picsum.photos/300/200" />
+    <div class="overlay-content">
+      <p class="card-title">Title goes here</p>
+      <p class="card-subtitle">SubText</p>
+    </div>
+  </div>
+  <p class="card-description">
+    Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi in
+    consequuntur quis.
+  </p>
+  <div class="card-actions">
+    <button class="btn btn-primary">Read</button>
+    <button class="btn btn-secondary">Button</button>
+    <i class="card-icon material-icons">favorite_border</i>
+    <i class="card-icon material-icons">share</i>
+    <i class="card-icon material-icons">more_vert</i>
+  </div>
+</div>
