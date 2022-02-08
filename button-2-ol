@@ -1,0 +1,7 @@
+<button class="btn btn-primary-ol">Primary</button>
+<button class="btn btn-secondary-ol">Secondary</button>
+<button class="btn btn-teritary-ol">Tertiary</button>
+<button class="btn btn-warn-ol">Warning</button>
+<button class="btn btn-danger-ol">Danger</button>
+<button class="btn btn-success-ol">Success</button>
+<button class="btn btn-dark-ol">Dark</button>
