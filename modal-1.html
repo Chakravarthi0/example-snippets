@@ -1,0 +1,26 @@
+<button modal-btn-for="modal-one" class="btn btn-primary-ol modal-open-btn">
+  Modal 1
+</button>
+
+<div id="modal-one" class="modal-bg hidden">
+  <div class="modal position-rel">
+    <h2 class="text-large list-head">Modal heading</h2>
+    <i
+      modal-btn-for="modal-one"
+      class="material-icons modal-close-btn position-abs top-0 right-0"
+      >close</i
+    >
+    <p>Modal description</p>
+    <div class="modal-actions">
+      <button modal-btn-for="modal-one" class="btn btn-primary modal-close-btn">
+        Action 1
+      </button>
+      <button
+        modal-btn-for="modal-one"
+        class="btn btn-secondary modal-close-btn"
+      >
+        Action 2
+      </button>
+    </div>
+  </div>
+</div>
